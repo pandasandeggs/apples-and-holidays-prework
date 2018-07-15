@@ -65,8 +65,13 @@ def all_holidays_with_bbq(holiday_hash)
 				key
   			end 
   		end 
+<<<<<<< HEAD
   	end.flatten.compact
   end
+=======
+  	end
+  end.flatten.compact
+>>>>>>> 1883ac1784bf1f9562e5008933b59f72b52d6b37
 
 
 
